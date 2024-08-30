@@ -12,4 +12,4 @@ The Live Code Editor is a web-based application that allows you to write and edi
 
 This tool is perfect for developers, learners, and anyone looking to quickly test and visualize web code. Explore the interactive capabilities and see your creations come to life immediately!
 
-##Acess tool here: https://k3s63.github.io/Own-HTML-Code-Editor/
+## Access tool here: https://k3s63.github.io/Own-HTML-Code-Editor/
